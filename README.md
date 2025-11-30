@@ -46,7 +46,7 @@ I'm a passionate **Software Engineer** student at **42 Network/1337 Coding Schoo
 
 ## 💼 Featured Projects
 
-### [Webserv](https://github.com/YOUR_USERNAME/webserv](https://github.com/Maamichaima/Webserv)
+### [Webserv](https://github.com/Maamichaima/Webserv)
 🌐 Building an HTTP server from scratch in C++98, implementing HTTP/1.1 protocol, CGI support, and handling multiple client connections with I/O multiplexing.
 
 ### [Inception](https://github.com/YOUR_USERNAME/inception)
@@ -55,7 +55,7 @@ I'm a passionate **Software Engineer** student at **42 Network/1337 Coding Schoo
 ### [Minishell](https://github.com/YOUR_USERNAME/minishell)
 💻 A minimal bash-like shell implementation in C, featuring command parsing, pipes, redirections, environment variables, and built-in commands.
 
-### [Philosophers (Dining Philosophers)](https://github.com/YOUR_USERNAME/philosophers](https://github.com/sle-eper/Dining-Philosophers-problem)
+### [Philosophers (Dining Philosophers)](https://github.com/sle-eper/Dining-Philosophers-problem)
 🍝 A multithreading and synchronization project solving the classic dining philosophers problem using mutexes and threads to avoid deadlocks and race conditions.
 
 
