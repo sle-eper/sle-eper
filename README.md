@@ -1,9 +1,5 @@
 # Hi there, I'm Mohamed Amine Manaoui 👋
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedamine.manaoui@gmail.com)
-[![42 Profile](https://img.shields.io/badge/42-Profile-000000?style=flat&logo=42&logoColor=white)](your-42-profile-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
-
 ## 🚀 About Me
 
 I'm a passionate **Software Engineer** student at **42 Network/1337 Coding School**, mastering the art of problem-solving and building robust applications. I thrive on learning new technologies and tackling challenging projects.
