@@ -72,27 +72,12 @@ I'm a passionate **Software Engineer** student at **42 Network/1337 Coding Schoo
 ### [Inception](https://github.com/YOUR_USERNAME/inception)
 🐳 A system administration project using Docker to set up a complete infrastructure with NGINX, WordPress, and MariaDB in isolated containers.
 
-### [Your Project 2](https://github.com/YOUR_USERNAME/project2)
-Brief description of your second most impressive project and the technologies used.
-
-### [Your Project 3](https://github.com/YOUR_USERNAME/project3)
-Brief description of another cool project you've built.
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](link)
-- [Blog Post Title 2](link)
-- [Blog Post Title 3](link)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:mohamedamine.manaoui@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="your-42-profile-url"><img src="https://img.shields.io/badge/-42_Network-000000?style=for-the-badge&logo=42&logoColor=white"/></a>
   <a href="your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="your-portfolio-url"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
 ---
@@ -101,5 +86,5 @@ Brief description of another cool project you've built.
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-<p align="center">💙 If you like my projects, give them a ⭐ and share them with friends!</p>
-<p align="center">Made with ❤️ and ☕</p>
+<p align="center"> If you like my projects, give them a ⭐ and share them with friends!</p>
+<p align="center">Made with ❤️</p>
