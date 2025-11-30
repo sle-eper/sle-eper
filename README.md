@@ -58,6 +58,18 @@ I'm a passionate **Software Engineer** student at **42 Network/1337 Coding Schoo
 ### [Philosophers (Dining Philosophers)](https://github.com/YOUR_USERNAME/philosophers](https://github.com/sle-eper/Dining-Philosophers-problem)
 🍝 A multithreading and synchronization project solving the classic dining philosophers problem using mutexes and threads to avoid deadlocks and race conditions.
 
+
+### [Inception](https://github.com/YOUR_USERNAME/inception)
+🐳 A system administration project using Docker to set up a complete infrastructure with NGINX, WordPress, and MariaDB in isolated containers with Docker Compose.
+
+### [Webserv](https://github.com/YOUR_USERNAME/webserv)
+🌐 Building an HTTP server from scratch in C++98, implementing HTTP/1.1 protocol, CGI support, and handling multiple client connections with I/O multiplexing.
+
+### [Philosophers (Dining Philosophers)](https://github.com/YOUR_USERNAME/philosophers)
+🍝 A multithreading and synchronization project solving the classic dining philosophers problem using mutexes and threads to avoid deadlocks and race conditions.
+
+### [Minishell](https://github.com/YOUR_USERNAME/minishell)
+💻 A minimal bash-like shell implementation in C, featuring command parsing, pipes, redirections, environment variables, and built-in commands.
 ## 🤝 Connect with Me
 
 <p align="center">
