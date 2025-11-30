@@ -1,49 +1,52 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mohamed Amine Manaoui 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](your-twitter-url)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedamine.manaoui@gmail.com)
+[![42 Profile](https://img.shields.io/badge/42-Profile-000000?style=flat&logo=42&logoColor=white)](your-42-profile-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
 ## 🚀 About Me
 
-I'm a passionate [Your Role/Title] with expertise in [Your Main Skills]. I love building [type of projects] and contributing to open-source communities.
+I'm a passionate **Software Engineer** student at **42 Network/1337 Coding School**, mastering the art of problem-solving and building robust applications. I thrive on learning new technologies and tackling challenging projects.
 
-- 🔭 I'm currently working on [Current Project]
-- 🌱 I'm currently learning [Technologies/Skills]
-- 👯 I'm looking to collaborate on [Project Types]
-- 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I'm currently working on **Inception Project** (Advanced Docker & System Administration)
+- 🌱 I'm currently learning **Virtualization with Docker**
+- 👯 I'm looking to collaborate on **Open-source projects** and **Web Applications**
+- 💬 Ask me about **Full-stack development**, **Docker**, **42 School projects**
+- 📫 How to reach me: **mohamedamine.manaoui@gmail.com**
+- ⚡ Fun fact: **I sleep anytime and everytime!!** 😴💤
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
@@ -66,14 +69,14 @@ I'm a passionate [Your Role/Title] with expertise in [Your Main Skills]. I love 
 
 ## 💼 Featured Projects
 
-### [Project Name 1](https://github.com/YOUR_USERNAME/project1)
-Brief description of what this project does and the technologies used.
+### [Inception](https://github.com/YOUR_USERNAME/inception)
+🐳 A system administration project using Docker to set up a complete infrastructure with NGINX, WordPress, and MariaDB in isolated containers.
 
-### [Project Name 2](https://github.com/YOUR_USERNAME/project2)
-Brief description of what this project does and the technologies used.
+### [Your Project 2](https://github.com/YOUR_USERNAME/project2)
+Brief description of your second most impressive project and the technologies used.
 
-### [Project Name 3](https://github.com/YOUR_USERNAME/project3)
-Brief description of what this project does and the technologies used.
+### [Your Project 3](https://github.com/YOUR_USERNAME/project3)
+Brief description of another cool project you've built.
 
 ## 📝 Latest Blog Posts
 
@@ -86,10 +89,10 @@ Brief description of what this project does and the technologies used.
 ## 🤝 Connect with Me
 
 <p align="center">
+  <a href="mailto:mohamedamine.manaoui@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="your-42-profile-url"><img src="https://img.shields.io/badge/-42_Network-000000?style=for-the-badge&logo=42&logoColor=white"/></a>
   <a href="your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="your-twitter-url"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="your-portfolio-url"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
