@@ -49,7 +49,7 @@ I'm a passionate **Software Engineer** student at **42 Network/1337 Coding Schoo
 ### [Webserv](https://github.com/Maamichaima/Webserv)
 🌐 Building an HTTP server from scratch in C++98, implementing HTTP/1.1 protocol, CGI support, and handling multiple client connections with I/O multiplexing.
 
-### [Inception](https://github.com/sle-eperE/inception)
+### [Inception](https://github.com/sle-eper/inception)
 🐳 A system administration project using Docker to set up a complete infrastructure with NGINX, WordPress, and MariaDB in isolated containers with Docker Compose.
 
 ### [Minishell](https://github.com/YOUR_USERNAME/minishell)
