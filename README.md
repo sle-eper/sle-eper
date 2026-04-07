@@ -9,7 +9,6 @@ I'm a passionate **Software Engineer** student at **42 Network/1337 Coding Schoo
 - 👯 I'm looking to collaborate on **Open-source projects** and **Web Applications**
 - 💬 Ask me about **Full-stack development**, **Docker**, **42 School projects**
 - 📫 How to reach me: **mohamedamine.manaoui@gmail.com**
-- ⚡ Fun fact: **I sleep anytime and everytime!!** 😴💤
 
 ## 🛠️ Tech Stack
 
